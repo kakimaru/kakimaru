@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 📚 I'm currently studying Web development at CICCC.
+- 🐧 I have worked as a UI designer, and I love design!
+- Dreaming of becoming a design engineer 🏃🏻
+
+
 <!--
 **kakimaru/kakimaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
